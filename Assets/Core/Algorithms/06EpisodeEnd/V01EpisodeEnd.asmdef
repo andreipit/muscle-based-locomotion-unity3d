@@ -1,0 +1,17 @@
+{
+    "name": "V01EpisodeEnd",
+    "rootNamespace": "",
+    "references": [
+        "GUID:9edfa95c99e3e7147930abe63e9543ff",
+        "GUID:937769a9736c4e249aafcfebd77b3772"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

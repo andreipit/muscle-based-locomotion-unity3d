@@ -1,0 +1,25 @@
+{
+    "name": "V01",
+    "rootNamespace": "",
+    "references": [
+        "GUID:85e0054f8e64b47309646d35f8851f81",
+        "GUID:42675ddec8c314cf08d17ee0f6f5e5a5",
+        "GUID:937769a9736c4e249aafcfebd77b3772",
+        "GUID:1622ee466342ea8479b296385ce13314",
+        "GUID:26fb6bfacc3e9b14ab2560c38fe79692",
+        "GUID:344feb8928a683640beea4e85ae5c499",
+        "GUID:9296ecacdde11314e836a58dfdc610bf",
+        "GUID:799d93d5abdf30048b04db7ff1b7f911",
+        "GUID:ddd459f7c7664754e9f4900667e650d8",
+        "GUID:a921fd59ad63ea041a93c8ad3f84b126"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

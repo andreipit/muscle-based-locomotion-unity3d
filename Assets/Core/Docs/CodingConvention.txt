@@ -1,0 +1,5 @@
+We use 2 free lines before and after each region.
+By default we always start from:
+- private variables
+- static functions
+- new assembly

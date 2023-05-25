@@ -1,0 +1,65 @@
+{
+    "MuscledWalker": {
+        "checkpoints": [
+            {
+                "steps": 4900,
+                "file_path": "results\\gitignored\\MuscledWalker\\MuscledWalker-4900.onnx",
+                "reward": -0.29829760115593673,
+                "creation_time": 1685038682.8286953,
+                "auxillary_file_paths": [
+                    "results\\gitignored\\MuscledWalker\\MuscledWalker-4900.pt"
+                ]
+            },
+            {
+                "steps": 5420,
+                "file_path": "results\\gitignored\\MuscledWalker\\MuscledWalker-5420.onnx",
+                "reward": -0.2716351539658552,
+                "creation_time": 1685038977.7975404,
+                "auxillary_file_paths": [
+                    "results\\gitignored\\MuscledWalker\\MuscledWalker-5420.pt"
+                ]
+            },
+            {
+                "steps": 10256,
+                "file_path": "results\\gitignored\\MuscledWalker\\MuscledWalker-10256.onnx",
+                "reward": -0.3004508844854539,
+                "creation_time": 1685039176.0948045,
+                "auxillary_file_paths": [
+                    "results\\gitignored\\MuscledWalker\\MuscledWalker-10256.pt"
+                ]
+            },
+            {
+                "steps": 11107,
+                "file_path": "results\\gitignored\\MuscledWalker\\MuscledWalker-11107.onnx",
+                "reward": -0.29545271444116156,
+                "creation_time": 1685039729.6111438,
+                "auxillary_file_paths": [
+                    "results\\gitignored\\MuscledWalker\\MuscledWalker-11107.pt"
+                ]
+            },
+            {
+                "steps": 12896,
+                "file_path": "results\\gitignored\\MuscledWalker\\MuscledWalker-12896.onnx",
+                "reward": -0.30976144977511816,
+                "creation_time": 1685040434.2985952,
+                "auxillary_file_paths": [
+                    "results\\gitignored\\MuscledWalker\\MuscledWalker-12896.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 12896,
+            "file_path": "results\\gitignored\\MuscledWalker.onnx",
+            "reward": -0.30976144977511816,
+            "creation_time": 1685040434.2985952,
+            "auxillary_file_paths": [
+                "results\\gitignored\\MuscledWalker\\MuscledWalker-12896.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

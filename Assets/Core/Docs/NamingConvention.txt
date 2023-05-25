@@ -1,0 +1,50 @@
+using UnityEngine;
+
+namespace MuscleSystem
+{
+    public class MuscledAgent : Agent
+    {
+        // public variables
+        public GameObject HeroPrefab;
+
+        // private variables (we never use the word "private")
+        [SerializeField] Transform m_Goal;
+        Transform m_Action;
+
+        // events
+        public event Action<float> OnRewardUpdate;
+
+        // properties
+		public Dictionary<ulong, T> BoxById
+        {
+            get
+            {
+                RefreshIdsCache();
+                return m_Goal;
+            }
+            set => m_BoxById = value;
+        }
+
+        // sometimes we group methods into regions
+        #region Public methods
+
+        public void OnEpisodeBegin(string _Name)
+        {
+        	// local variables
+        	string personSurname = _Name;
+        }
+
+        #endregion
+
+
+        #region Private methods
+
+        void OnEpisodeEnd(string _Name)
+        {
+        	// local variables
+        	string personSurname = _Name;
+        }
+
+        #endregion
+    }
+}

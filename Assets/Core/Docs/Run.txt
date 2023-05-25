@@ -1,0 +1,6 @@
+conda activate agent38
+cd C:\Users\user\Desktop\temp\cr\Assets\\Core\ML
+mlagents-learn config/MuscledWalker.yaml --run-id=gitignored
+
+
+

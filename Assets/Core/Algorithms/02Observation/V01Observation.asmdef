@@ -1,0 +1,19 @@
+{
+    "name": "V01Observation",
+    "rootNamespace": "",
+    "references": [
+        "GUID:85e0054f8e64b47309646d35f8851f81",
+        "GUID:42675ddec8c314cf08d17ee0f6f5e5a5",
+        "GUID:937769a9736c4e249aafcfebd77b3772",
+        "GUID:9edfa95c99e3e7147930abe63e9543ff"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
