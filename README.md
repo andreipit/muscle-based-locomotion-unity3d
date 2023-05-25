@@ -1,4 +1,7 @@
-# muscle-based-locomotion-unity3d
+# muscle based locomotion in unity3d
+
+![Demo](Assets/Core/Docs/Demo.gif)
+
 
 Reference:
 
