@@ -1,4 +1,4 @@
-# muscle based locomotion in unity3d
+# muscle based locomotion in unity3d (using reinforcement learning)
 
 ![Demo](Assets/Core/Docs/Demo.gif)
 
